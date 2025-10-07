@@ -1,6 +1,13 @@
-Changelog
+Changelog (KSU version)
 =========
 
 07/10/2025
 ---------------
 - init build
+- add KSU-Next
+- add OTA
+- add DEXOPT optimization
+- Disable phantom process monitoring
+- Add a property to enable prefetching video
+- Set debug.sf.layer_caching_active_layer_timeout_ms to 1000
+- patch audio files with libaudioroute-v34.so
