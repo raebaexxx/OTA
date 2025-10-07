@@ -1,0 +1,26 @@
+{
+  "response": [
+    {
+      "maintainer": "RaeBaeXXX",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "fuxi",
+      "filename": "Lunaris-AOSP-fuxi-OFFICIAL-3.3-Gapps-2025100505.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/Pong/Lunaris-AOSP-Pong-OFFICIAL-3.3-Gapps-2025100505.zip/download",
+      "timestamp": 1759640911,
+      "md5": "43279e0f5fb6f09ca4f2dfc0a4a94865",
+      "sha256": "c55a8175b0707ea0a94c48e7663eec9d31b721526d94e18a459771d08bf199c0",
+      "size": 2693922811,
+      "version": "3.3",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/buildsRB",
+      "firmware": "",
+      "paypal": "",
+      "github": "raebaexxx",
+      "sourceforge": "rbxfuxiroms",
+      "initial_installation_images": [
+        ""
+      ]
+    }
+  ]
+}
