@@ -6,6 +6,7 @@ Changelog (KSU version)
 - init build
 - add KSU-Next
 - add OTA
+- Dolby and MIUI Camera included
 - add DEXOPT optimization
 - Disable phantom process monitoring
 - Add a property to enable prefetching video
