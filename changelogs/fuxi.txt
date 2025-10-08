@@ -12,3 +12,7 @@ Changelog (KSU version)
 - Add a property to enable prefetching video
 - Set debug.sf.layer_caching_active_layer_timeout_ms to 1000
 - patch audio files with libaudioroute-v34.so
+
+07/10/2025
+---------------
+- update to lunaris 3.4
