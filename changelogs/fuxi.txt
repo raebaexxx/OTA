@@ -8,11 +8,38 @@ Changelog (KSU version)
 - add OTA
 - Dolby and MIUI Camera included
 - add DEXOPT optimization
-- Disable phantom process monitoring
-- Add a property to enable prefetching video
-- Set debug.sf.layer_caching_active_layer_timeout_ms to 1000
+- disable phantom process monitoring
+- add a property to enable prefetching video
+- set debug.sf.layer_caching_active_layer_timeout_ms to 1000
 - patch audio files with libaudioroute-v34.so
 
 07/10/2025
 ---------------
 - update to lunaris 3.4
+
+13/10/2025
+---------------
+- update to lunaris 3.4 and some others rom changes
+- include gcam go for normal quality photo
+- adjust screen brightness
+- update touch-drivers, xiaomi_touch
+- downgrade to ARMv8.2-A
+- add/update xiaomi cit
+- fixes slow internet speed while using Bluetooth
+- use HintManager for HWUI (This will send HWUI timings to HintManager for better CPU scheduling.
+Setting a 30% margin for CPU should heavily reduce CPU loads for HWUI and
+use GPU for the rest)
+- use 4G instead of LTE icon for save statusbar space (now 4G+ icon shows too)
+- enable IMS feature flags for supported carriers
+- enable VoLTE/VoWIFI for all indian cariers
+- enable VoLTE for Viettel Vietnam
+- enable VoLTE for Mobifone Vietnam
+- add full Support Carrier Smartfren VoLTE
+- enable VoLTE support for Indosat and XL Axiata
+- enable VoLTE support for Telkomsel (Indonesia)
+- enable VoLTE support for Three
+- enable VoLTE support for Bakcell (Azerbaijan)
+- fix camera work in Instagram
+- enable 8K, 4K, 2K recording on main camera
+- import missing PowerOffAlarm from stock
+- patchs/updates for Dolby
