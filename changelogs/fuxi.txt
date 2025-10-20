@@ -1,21 +1,18 @@
 Changelog (KSU version)
 =========
 
-07/10/2025
----------------
-- init build
-- add KSU-Next
-- add OTA
-- Dolby and MIUI Camera included
-- add DEXOPT optimization
-- disable phantom process monitoring
-- add a property to enable prefetching video
-- set debug.sf.layer_caching_active_layer_timeout_ms to 1000
-- patch audio files with libaudioroute-v34.so
+20/10/2025
+- update kernel to 5.15.194
+- remove susfs
+- remove gcam
+- fixed photo quality in miui cam!!!
+- update power config
+- fixed problems with volte and some problems with sim network
+- RIL edits for battery life
+- fix a fatal dolby hal denial
+- overlay changes for improve signal reception
+- disabled verbose camera logs
 
-07/10/2025
----------------
-- update to lunaris 3.4
 
 13/10/2025
 ---------------
@@ -43,3 +40,16 @@ use GPU for the rest)
 - enable 8K, 4K, 2K recording on main camera
 - import missing PowerOffAlarm from stock
 - patchs/updates for Dolby
+
+
+07/10/2025
+---------------
+- init build
+- add KSU-Next
+- add OTA
+- Dolby and MIUI Camera included
+- add DEXOPT optimization
+- disable phantom process monitoring
+- add a property to enable prefetching video
+- set debug.sf.layer_caching_active_layer_timeout_ms to 1000
+- patch audio files with libaudioroute-v34.so
